@@ -1,0 +1,10 @@
+weight: 2
+title: "Christian Surfers Outreach Program"
+description: >
+  <ul class="list-style-none">
+    <li>Surf With A Local</li>
+    <li>We Pick You Up At Your Hotel</li>
+    <li>And Go Surfing</li>
+  </ul>
+image: "img/carousel/circle.png"
+href: "https://devcows.github.io/hugo-universal-theme/"
